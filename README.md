@@ -1,4 +1,4 @@
-# Hi, I'm Ishaan 👋
+# Hey, I'm Ishaan 👋
 
 <!--
 **ishaan-arya/ishaan-arya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
