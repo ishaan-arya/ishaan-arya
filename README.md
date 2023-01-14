@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a 17 year old mobile app developer and machine learning enthusiast studying Computer Science and Engineering at the University of Michigan, Ann Arbor 〽️.
+I am a mobile app developer and machine learning enthusiast studying Computer Science and Engineering at the University of Michigan, Ann Arbor 〽️.
 I'm currently scratching the surface of the world of programming and I am as excited as ever! 
 Here are some things about me:
 
