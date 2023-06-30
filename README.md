@@ -17,6 +17,7 @@ I am a mobile app developer and machine learning enthusiast studying Computer Sc
 I'm currently scratching the surface of the world of programming and I am as excited as ever! 
 Here are some things about me:
 
+- 🚖 I am working on the strategy subteam of the University of Michigan Solar Car Team.
 - 📈 I conducted research on using Twitter Sentiment Analysis for Stock Price Predictions.
 - 🔭 I conducted research on using different machine learning models for Automated Essay Grading.
 - 🏥 I'm currently building the Meraki app, an app for a nutritionist to manage her patients' diet plans and appointments
