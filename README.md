@@ -53,6 +53,4 @@ Here are some things about me:
 
 🔗 LinkedIn | [Ishaan Arya](https://www.linkedin.com/in/ishaan-arya-844135244/)
 
-📧 Email | ishaanarya2004@gmail.com
-
-📸 Instagram | [@ishaanarya_](https://www.instagram.com/ishaanarya_/)
+📧 Email | iarya@umich.edu
