@@ -1,4 +1,4 @@
-# Hey, I'm Ishaan 👋
+# Hey, I'm Ishaan
 
 <!--
 **ishaan-arya/ishaan-arya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,14 +13,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I am a student studying Computer Science and Engineering at the University of Michigan, Ann Arbor 〽️.
+I am a student studying Computer Science and Engineering at the University of Michigan, Ann Arbor.
 I'm currently scratching the surface of the world of programming and I am as excited as ever! 
 Here are some things about me:
 
 - 🚖 I am working on the strategy subteam of the University of Michigan Solar Car Team.
 - 📁 I built Nina, a natural language based file manager
 - 🗺 I built LinguaScan, a computer vision powered language learning platform
-- 📱 I built Wake Me Up!, the perfect alarm clock app for lazy people who just can't get out of bed.
 - 📈 I conducted research on using Twitter Sentiment Analysis for Stock Price Predictions.
 - 🔭 I conducted research on using different machine learning models for Automated Essay Grading.
 - 🎬 I love watching The Big Bang Theory and Silicon Valley
