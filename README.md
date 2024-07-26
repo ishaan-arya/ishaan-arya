@@ -18,8 +18,10 @@ I'm currently scratching the surface of the world of programming and I am as exc
 Here are some things about me:
 
 - 🚖 I am working on the strategy subteam of the University of Michigan Solar Car Team.
-- 📁 I built Nina, a natural language based file manager
-- 🗺 I built LinguaScan, a computer vision powered language learning platform
+- 🎥 I am building [VidBite](https://github.com/kunal-mansukhani/vid-bite), a chrome-extension to generate explanatory videos for any STEM concept using LLMs.
+- 🌎 I am building VisionEarth, a native VisionOS world exploration app.
+- 📁 I built [Nina](https://github.com/ishaan-arya/nina), a natural language based file manager.
+- 🗺 I built [LinguaScan](https://github.com/ishaan-arya/lingua-scan), a computer vision powered language learning platform
 - 📈 I conducted research on using Twitter Sentiment Analysis for Stock Price Predictions.
 - 🔭 I conducted research on using different machine learning models for Automated Essay Grading.
 - 🎬 I love watching The Big Bang Theory and Silicon Valley
